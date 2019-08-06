@@ -1,0 +1,11 @@
+# Properties File for the said microservice
+
+# Server Port
+server.port=8761
+
+# Eureka Server Properties
+# Since this is eureka server, do not let it register with itself
+eureka.client.register-with-eureka=false
+
+# Disable fetch Registry since this in itself is the eureka server
+eureka.client.fetch-registry=false
