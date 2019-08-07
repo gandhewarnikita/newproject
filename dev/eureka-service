@@ -1,7 +1,7 @@
 # Properties File for the said microservice
 
 # Server Port
-server.port=8761
+server.port=8762
 
 # Eureka Server Properties
 # Since this is eureka server, do not let it register with itself
