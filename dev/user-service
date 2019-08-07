@@ -1,0 +1,4 @@
+# Properties File for the said microservice
+
+# Server Port
+server.port=8788
